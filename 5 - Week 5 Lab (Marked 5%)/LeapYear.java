@@ -20,7 +20,6 @@
 */
 
 import java.util.Scanner;
-import java.lang.Math;
 
 public class LeapYear{
 	// class variable declaration
