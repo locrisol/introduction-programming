@@ -90,7 +90,7 @@ public class RockPaperScissors_Scanner{
 	* @param  userOption                The option for the user from Rock, Paper, Scissors
 	* @param  computerOption            The option for the computer from Rock, Paper, Scissors
 	* @param  options[]                 The array with the 3 options for the game
-	* @return userWins       			0 if user loses, 1 if user wins, 2 if it's a draw
+	* @return userWins       	    0 if user loses, 1 if user wins, 2 if it's a draw
 	*/
 	private static int computeWinner(String userOption, String computerOption, String[] options){
 		int userWins = 2;
@@ -128,7 +128,7 @@ public class RockPaperScissors_Scanner{
 	* @param  result                0 if user loses, 1 if user wins, 2 if it's a draw
 	* @param  userOption            The option for the user from Rock, Paper, Scissors
 	* @param  computerOption        The option for the computer from Rock, Paper, Scissors
-	* @return 						no return
+	* @return 			no return
 	*/
 	private static void displayResult(int result, String userOption, String computerOption){
 		System.out.println("You chose "+userOption+", the computer chose "+computerOption+".");
