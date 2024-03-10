@@ -4,9 +4,11 @@
 * This program checks if the number given by the user is
 * positive, negative or neutral (0).
 *
-* @author  Leandro Crisol Lo Presti
-* @version 1.0
-* @since   10/03/2024
+* @author           Leandro Crisol Lo Presti
+* @version          1.0
+* @since            10/03/2024
+* @module           Introduction to Programming (BSHCE1)
+* @student_number   23156503
 */
 
 import java.util.Scanner;
