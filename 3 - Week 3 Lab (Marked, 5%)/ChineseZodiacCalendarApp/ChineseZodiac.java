@@ -8,8 +8,8 @@
 * author            Leandro Crisol Lo Presti
 * version           1.0
 * since             07/03/2024
-* @module           Introduction to Programming (BSHCE1)
-* @student_number   23156503
+* module           Introduction to Programming (BSHCE1)
+* student_number   23156503
 */
 
 import java.util.Arrays;
