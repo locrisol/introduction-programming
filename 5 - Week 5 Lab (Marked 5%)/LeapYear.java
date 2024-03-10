@@ -40,12 +40,12 @@ public class LeapYear{
 		}while(repeatProgram()); // will repeat the loop until the user decides to stop the program
 	}
 
-   /**
-   * Displays to the user a message depending on if the given year is a Leap Year or not.
-   *
-   * @param  year                  input year from user to check if it's Leap Year or not.
-   * @return givenYearIsLeap       boolean value, true if it's a Leap Year, false if it's not.
-   */
+  	/**
+  	* Displays to the user a message depending on if the given year is a Leap Year or not.
+ 	*
+  	* @param  year                  input year from user to check if it's Leap Year or not.
+  	* @return givenYearIsLeap       boolean value, true if it's a Leap Year, false if it's not.
+  	*/
 	private static boolean isLeapYear(int year){
 		boolean givenYearIsLeap = false; // default condition, as the returned variable has to be initialized
 		boolean isNegative = false;
@@ -63,12 +63,12 @@ public class LeapYear{
 		return givenYearIsLeap;
 	}
 
-   /**
-   * Determines if the user wants to repeat the program or exit.
-   *
-   * @param  no params               input year from user to check if it's Leap Year or not.
-   * @return userWantsToRepeat       boolean value, true if program has to be repeated, false if not.
-   */
+ 	  /**
+  	* Determines if the user wants to repeat the program or exit.
+ 	*
+  	* @param  no params               input year from user to check if it's Leap Year or not.
+  	* @return userWantsToRepeat       boolean value, true if program has to be repeated, false if not.
+   	*/
 	private static boolean repeatProgram(){
 		boolean userWantsToRepeat = false;
 		int userOption;
