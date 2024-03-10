@@ -63,7 +63,7 @@ public class LeapYear{
 		return givenYearIsLeap;
 	}
 
- 	  /**
+ 	/**
   	* Determines if the user wants to repeat the program or exit.
  	*
   	* @param  no params               input year from user to check if it's Leap Year or not.
