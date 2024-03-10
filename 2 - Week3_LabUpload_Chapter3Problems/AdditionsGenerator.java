@@ -7,9 +7,11 @@
 * Then, it checks if the answer given by the user is equal to the actual addition of both
 * random generated numbers, displaying a message depending wether the answer was right or not.
 *
-* author  Leandro Crisol Lo Presti
-* version 1.0
-* since   15/02/2024
+* author            Leandro Crisol Lo Presti
+* version           1.0
+* since             15/02/2024
+* @module           Introduction to Programming (BSHCE1)
+* @student_number   23156503
 */
 
 import java.lang.Math;
