@@ -4,9 +4,11 @@
 * This program lets the user enter the interest rate, number of years,
 * and loan amount, and computes monthly payments and total payment.
 *
-* author  Leandro Crisol Lo Presti
-* version 1.0
-* since   18/02/2024
+* author            Leandro Crisol Lo Presti
+* version           1.0
+* since             18/02/2024
+* @module           Introduction to Programming (BSHCE1)
+* @student_number   23156503
 */
 
 import java.util.Scanner;
