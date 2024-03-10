@@ -5,9 +5,11 @@
 * time in 24 hours format. For that, it uses the currentTimeMillis()
 * method to calculate the time elapsed in milliseconds since 01/01/1970 00:00:00 GMT.
 *
-* author  Leandro Crisol Lo Presti
-* version 1.0
-* since   09/02/2024
+* @author           Leandro Crisol Lo Presti
+* @version          1.0
+* @since            09/02/2024
+* @module           Introduction to Programming (BSHCE1)
+* @student_number   23156503
 */
 
 public class ActualTime {
