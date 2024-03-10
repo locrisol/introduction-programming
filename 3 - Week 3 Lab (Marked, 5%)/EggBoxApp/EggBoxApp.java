@@ -7,9 +7,11 @@
 * full boxes can be filled as maximum, and how many leftover
 * eggs would we be left with.
 *
-* @author  Leandro Crisol Lo Presti
-* @version 1.0
-* @since   18/02/2024
+* @author           Leandro Crisol Lo Presti
+* @version          1.0
+* @since            18/02/2024
+* @module           Introduction to Programming (BSHCE1)
+* @student_number   23156503
 */
 
 import javax.swing.JOptionPane;
