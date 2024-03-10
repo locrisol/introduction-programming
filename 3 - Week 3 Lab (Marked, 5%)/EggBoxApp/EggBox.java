@@ -25,7 +25,7 @@ public class EggBox{
 	*
 	* @param    no params
 	* @return   no return
-    */
+ 	*/
 	public EggBox(){
 		eggs = 0;
 		boxSize = 0;
@@ -38,7 +38,7 @@ public class EggBox{
 	*
 	* @param eggs    number of total eggs
 	* @return        no return
-    */
+    	*/
 	public void setEggs(int eggs){
 		this.eggs = eggs;
 	}
@@ -48,7 +48,7 @@ public class EggBox{
 	*
 	* @param boxSize    the size of the boxes that will store the eggs
 	* @return           no return
-    */
+    	*/
 	public void setBoxSize(int boxSize){
 		this.boxSize = boxSize;
 	}
@@ -58,7 +58,7 @@ public class EggBox{
 	*
 	* @param    no params
 	* @return   no return
-    */
+    	*/
 	public void computeBoxes(){
 		numBoxes = (int)Math.floor(eggs / boxSize); // gets the maximum number of egg boxes possible
 	}
@@ -68,7 +68,7 @@ public class EggBox{
 	*
 	* @param    no params
 	* @return   no return
-    */
+    	*/
 	public void computeLeftover(){
 		leftOverEggs = eggs % boxSize; // gets the remaining eggs than can fill a box
 	}
@@ -78,7 +78,7 @@ public class EggBox{
 	*
 	* @param              no params
 	* @return numBoxes    number of full boxes of eggs
-    */
+    	*/
 	public int getBoxes(){ return numBoxes; }
 
 	/**
@@ -86,6 +86,6 @@ public class EggBox{
 	*
 	* @param                  no params
 	* @return leftOverEggs    number of eggs left over after filling the boxes
-    */
+    	*/
 	public int getLeftover(){ return leftOverEggs; }
 }
