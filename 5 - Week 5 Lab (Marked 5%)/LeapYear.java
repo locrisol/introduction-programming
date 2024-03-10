@@ -9,8 +9,8 @@
 *		1) The year must be evenly divisible by 4.
 *		2) If the year is ALSO evenly divided by 100, is NOT a leap year.
 *		3) If the year is ALSO evenly divided by 400, IT IS a leap year.
-*	According to these rules, year 2000 and 2400 are leap years, but the years
-*	1800, 1900, 2100, 2200, 2300 and 2500 are not leap years
+*   According to these rules, year 2000 and 2400 are leap years, but the years
+*   1800, 1900, 2100, 2200, 2300 and 2500 are not leap years
 *
 * @author           Leandro Crisol Lo Presti
 * @version          1.0
