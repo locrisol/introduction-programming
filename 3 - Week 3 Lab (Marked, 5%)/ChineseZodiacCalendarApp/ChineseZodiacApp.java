@@ -7,9 +7,11 @@
 * and also if the program should be repeated giving the option to get information
 * about the animals of multiple years without exiting the program each time.
 *
-* author  Leandro Crisol Lo Presti
-* version 1.0
-* since   07/03/2024
+* author            Leandro Crisol Lo Presti
+* version           1.0
+* since             07/03/2024
+* module           Introduction to Programming (BSHCE1)
+* student_number   23156503
 */
 
 import java.util.Scanner;
