@@ -28,5 +28,5 @@ This is a library for all the labs exercises submitted in Moodle for the Introdu
 ## 5 - Week 5 Lab (Marked 5%)
 - LeapYear.java
 - RockPaperScissors_Scanner.java
-- RockPaperScissors (JOptionPane variation)
+- RockPaperScissors (JOptionPane variation) **Still working on it, and learning about JOPtionPane**
   - workinprogress.java
